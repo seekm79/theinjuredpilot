@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Text101",
+"productName": "Block Breaker",
 "productVersion": "0.1",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
